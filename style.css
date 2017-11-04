@@ -1,7 +1,4 @@
-li a:hover {
+li > a:hover {
 background-color: blue;
 }
 
-body {
-  background-color: gray;
-}
