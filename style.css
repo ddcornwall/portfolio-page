@@ -1,4 +1,28 @@
-li > a:hover {
-background-color: blue;
+<!--CSS for Portfolio page. Remember to load Bootstrap, then this file. -->
+
+.alert {
+    border-left: 6px solid red;
+    background-color: lightgrey;
 }
+
+button {
+  text-align: center;
+  border-radius: 50%;
+ 
+}
+
+button > a:hover {
+ color:black;
+
+}
+
+  
+section {
+padding-top:40px;
+margin-left:2%;  
+}
+
+
+
+
 
