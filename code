@@ -1,0 +1,196 @@
+<!-- Codepen code for body of Portfolio page. Needs to be inserted into a regular HTML file -->
+<div class="container-fluid">
+  
+<!-- Begin Navbar-->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        Menu 
+      </button>
+      <a class="navbar-brand" href="#">Daniel Cornwall</a>
+    </div>
+<div class="collapse navbar-collapse" id="myNavbar">
+    <ul class="nav navbar-nav">
+      <li><a href="#">Home</a></li>
+      <li ><a href="#WorkExamples">Work Examples</a</li>
+     <li><a href="#About">About</a></li>
+     <li><a href="#Contact">Contact Me</a></li>
+     <li><a href="#Connect">Connect</a></li>   
+    </ul>
+
+  </div>     
+  </div>
+</nav>
+
+<!--End Navigation Bar-->
+  
+  
+<!--Begin Intro-->  
+<section id="Intro">
+  <div class="jumbotron" >
+  <div class="row">
+  <div class="col-xs-4">
+  <img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/Daniel-portfolio.jpg" class="img-circle img-responsive" alt="Daniel smiling despite the rain.">
+    </div>
+<div class="col-xs-8">    
+  <p>Hi, I'm Daniel. I'm a technology trainer, growing coder and problem solver. I am a librarian. </p>     
+  <p style="border-bottom: 3px solid green;"></p>
+  <p>User oriented generalist whose coding skills are backed up with solid research and writing skills.</p>
+    
+    </div>
+  </div>
+ 
+</div>
+  </section>
+  <!--End Introduction-->
+
+<!--Begin Work Examples-->  
+<section id="WorkExamples">
+<h2>Work Examples</h2>
+
+  <h3>Web Development and Programming</h3>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-6">
+    <div><a href="https://codepen.io/ddcornwall/full/jGgOGm/" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/Gandhi400x200ish.jpg" class="img-thumbnail img-responsive" alt=""></a>
+        <p><a href="https://codepen.io/ddcornwall/full/jGgOGm/" target="blank">Free Code Camp Tribute Page</a> to Mahatma Gandhi</p>
+      <p>Uses HTML, CSS, Bootstrap</p></div>
+    </div>
+    <div class="col-xs-6">
+          <div><a href="#" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/Placeholder-400-200.jpg" class="img-thumbnail img-responsive" alt=""></a><br/>
+        <p>Reserved for Future Project</p></div>
+    </div>
+    
+    </div>
+  </div>
+    
+<h3>Research and Tech Guides</h3>
+  
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-6">
+      <div><a href="http://godort.libguides.com/alaskadbs" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/AkStateDatabases400w.jpg" class="img-thumbnail img-responsive" alt=""></a><br/>
+        <p><a href="http://godort.libguides.com/alaskadbs" target="blank">Searchable Databases Produced by State of Alaska</a></p>
+<p>Uses LibGuides CMS          
+        </div>
+        </div>
+    <div class="col-xs-6">
+      <div><a href="http://lam.alaska.gov/wireless" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/ASLwireless400w.jpg" class="img-thumbnail img-responsive" alt=""></a><br/>
+        <p><a href="http://lam.alaska.gov/wireless" target="blank">Customize Your Wireless Network</a></p>
+<p>Uses LibGuides CMS          
+        </div>
+        </div>
+
+        </div>
+  </div>
+  
+<h3>Photography</h3>
+<p>I believe that there is a little room for personal interests on a professional portfolio, so I'm sharing a few of my amateur photographs.   
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-4">
+      <div>
+        <a href="https://github.com/ddcornwall/portfolio-page/blob/master/Fall-Leaves.jpg" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/Fall-Leaves.jpg" class="img-thumbnail" alt="fall leaves on carport roof."></a><br/>
+        <p class="text-center">Carport Fall</p></div>
+    </div>
+    <div class="col-xs-4">
+      <div><a href="https://github.com/ddcornwall/portfolio-page/blob/master/IGA-clouds.jpg" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/IGA-clouds.jpg" class="img-thumbnail" alt"Dark puffy clouds over a grocery store near sunset."></a><br/>
+        <p class="text-center">Clouds over Foodland IGA, Juneau Alaska</p></div>
+    </div>
+    <div class="col-xs-4">
+      <div>
+        <a href="https://github.com/ddcornwall/portfolio-page/blob/master/stairs-to-ocean.jpg" target="blank"><img src="https://raw.githubusercontent.com/ddcornwall/portfolio-page/master/stairs-to-ocean.jpg" class="img-thumbnail" alt="Looking down a set of stairs leading to a small spit of tideline"></a><br/>
+        <p class="text-center">Juneau Alaska Seawalk tideland stairs</p></div>
+    </div>
+  </div>
+  </div>
+</section>
+  
+<section id="About">
+<h2>About Daniel</h2>
+<div class="container">
+    
+  <h3>Work Experience</h3>
+
+<ul>
+  <li>Internet and Technology Specialist | Alaska State Library</li>
+  <li>Digital Librarian | Alaska Division of Libraries, Archives and Museums</li>
+  <li>
+Head of Technical and Imaging Services | Alaska Division of Libraries, Archives and Museums</li>
+  <li>Head of Information Services (think library branch manager) | Alaska State Library</li>
+<li>Government Publications/Technical Services Librarian | Alaska State Library</li>
+  </ul>
+
+  <h3>Languages</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+  <h3>Frameworks / CMS</h3>
+<ul>
+  <li>Bootstrap</li>
+  <li>Wordpress</li>
+  <li>Springshare's LibGuides</li>
+</ul>
+
+  <h3>Education</h3>
+
+  <h4>Master's of Science in Library and Information Science</h4>
+ <ul>
+   <li>University of Texas at Austin</li>
+  </ul>
+   
+  <h4>Bachelor of Arts in History</h4>
+  <ul>
+    <li>UCLA</li>
+  </ul>
+</section>
+
+<!--Begin Contact Form-->
+<section id="Contact">
+<h2>Contact Me</h2>
+<p class="alert">11/5/17 - Do not use this contact form. Functionality pending backend training and acquisition of full web hosting.
+<form action="mailto:danielcornwall@gmail.com" method="post" enctype="text/plain">
+  <div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" class="form-control" style="width:40%" id="name">
+  </div>
+  <div class="form-group">
+    <label for="email">Email address:</label>
+    <input type="email" class="form-control" style="width:40%" id="email">
+  </div>
+  <div class="form-group">
+    <label for="msg">Message (500 characters max):</label>
+    <input type="text" size="500" class="form-control" style="width:50%; height:200px" id="msg">
+  </div>
+
+  <button type="submit" value="send" class="btn btn-default">Submit</button>
+</form>
+</section>  
+<!--End Contact Form-->  
+
+<!--Begin Connect With Social Media-->
+<section id="Connect">
+  <h2>Connect</h2>
+<p>If you like what you've seen here, follow me on social media:
+  
+<div class="row" style="padding:20px">
+<div class="col-xs-3">
+<button><a href="https://twitter.com/DanielCornwall" target="blank">Twitter</a></button>
+  </div>  
+<div class="col-xs-3">
+<button><a href="https://www.linkedin.com/in/danielcornwall" target="_blank">LinkedIn</a></button>
+  </div>  
+<div class="col-xs-3">
+	<button><a href="https://github.com/ddcornwall" target="_blank">Github</a></button>
+  </div>  
+<div class="col-xs-3">
+<button><a href="https://codepen.io/ddcornwall/" target="_blank">CodePen</a></button>
+  </div>  
+
+</div>  
+</section>  
+  </div>  
